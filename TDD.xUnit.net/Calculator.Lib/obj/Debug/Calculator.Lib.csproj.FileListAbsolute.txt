@@ -1,0 +1,6 @@
+C:\Users\ASUS\Downloads\TDD.xUnit.net\Calculator.Lib\bin\Debug\Calculator.Lib.dll
+C:\Users\ASUS\Downloads\TDD.xUnit.net\Calculator.Lib\bin\Debug\Calculator.Lib.pdb
+C:\Users\ASUS\Downloads\TDD.xUnit.net\Calculator.Lib\obj\Debug\Calculator.Lib.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\TDD.xUnit.net\Calculator.Lib\obj\Debug\Calculator.Lib.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\TDD.xUnit.net\Calculator.Lib\obj\Debug\Calculator.Lib.dll
+C:\Users\ASUS\Downloads\TDD.xUnit.net\Calculator.Lib\obj\Debug\Calculator.Lib.pdb
